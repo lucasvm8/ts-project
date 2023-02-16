@@ -1,0 +1,22 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasvm8/ts-project.git"
+  },
+  "author": "lvm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasvm8/ts-project/issues"
+  },
+  "homepage": "https://github.com/lucasvm8/ts-project#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
